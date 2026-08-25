@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poketbot</string>
+    <string name="title_subtitle">Colecciona, mejora y combate con robots de bolsillo</string>
+
+    <!-- Acciones generales -->
+    <string name="action_play">Jugar</string>
+    <string name="action_continue">Continuar</string>
+    <string name="action_garage">Taller</string>
+    <string name="action_back">‹ Atrás</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_sound_on">Sonido: activado</string>
+    <string name="action_sound_off">Sonido: apagado</string>
+    <string name="action_reset">Reiniciar progreso</string>
+
+    <!-- Etiquetas -->
+    <string name="label_scrap">Chatarra</string>
+    <string name="label_progress">Progreso</string>
+    <string name="label_pilot">Bot</string>
+
+    <!-- Campaña -->
+    <string name="campaign_title">Campaña</string>
+    <string name="campaign_subtitle">%1$d de %2$d combates superados</string>
+    <string name="stage_locked">Bloqueado</string>
+    <string name="stage_cleared">Superado</string>
+    <string name="stage_boss">Jefe</string>
+    <string name="stage_ready">Listo</string>
+
+    <!-- Taller -->
+    <string name="garage_title">Taller</string>
+    <string name="garage_subtitle">Elige tu bot y gasta chatarra en mejoras</string>
+    <string name="garage_upgrades">Mejoras</string>
+    <string name="roster_active">En uso</string>
+    <string name="roster_ready">Disponible</string>
+    <string name="roster_price">%1$d ⚙</string>
+    <string name="upgrade_cost">%1$d ⚙</string>
+    <string name="upgrade_max">Al máximo</string>
+    <string name="track_hp">Blindaje</string>
+    <string name="track_attack">Ataque</string>
+    <string name="track_defense">Defensa</string>
+    <string name="track_speed">Velocidad</string>
+
+    <!-- Especiales -->
+    <string name="special_cost">Coste: %1$d de energía</string>
+    <string name="special_overclock">Sobrecarga</string>
+    <string name="special_overclock_desc">Duplica el daño de tu siguiente ataque.</string>
+    <string name="special_emp">Pulso EMP</string>
+    <string name="special_emp_desc">Daña y aturde al rival durante un turno.</string>
+    <string name="special_double_strike">Doble Golpe</string>
+    <string name="special_double_strike_desc">Dos impactos rápidos en el mismo turno.</string>
+    <string name="special_shield_wall">Muro Escudo</string>
+    <string name="special_shield_wall_desc">Duplica tu defensa durante tres turnos.</string>
+    <string name="special_drain">Drenaje</string>
+    <string name="special_drain_desc">Daña al rival y te repara la mitad del daño.</string>
+    <string name="special_scrap_bomb">Bomba Chatarra</string>
+    <string name="special_scrap_bomb_desc">Daño alto que atraviesa la mitad de la defensa.</string>
+
+    <!-- Combate -->
+    <string name="battle_stage">Combate %1$d</string>
+    <string name="battle_turn">Turno %1$d</string>
+    <string name="battle_boss">¡Combate de jefe!</string>
+    <string name="action_attack">Atacar</string>
+    <string name="action_defend">Defender</string>
+    <string name="action_repair">Reparar (%1$d)</string>
+    <string name="status_shield">Escudo %1$d</string>
+    <string name="status_overclock">Sobrecargado</string>
+    <string name="status_stunned">Aturdido</string>
+    <string name="status_repairs">Reparaciones %1$d</string>
+    <string name="a11y_health">Vida de %1$s: %2$d de %3$d</string>
+
+    <!-- Registro de combate -->
+    <string name="log_start">¡Aparece %1$s!</string>
+    <string name="log_attack">%1$s ataca y hace %2$d de daño.</string>
+    <string name="log_crit">¡Crítico! %1$s hace %2$d de daño.</string>
+    <string name="log_defend">%1$s se pone en guardia.</string>
+    <string name="log_repair">%1$s se repara %2$d puntos (quedan %3$d).</string>
+    <string name="log_no_repairs">%1$s se ha quedado sin repuestos.</string>
+    <string name="log_no_energy">%1$s no tiene energía suficiente.</string>
+    <string name="log_stunned">%1$s está aturdido y pierde el turno.</string>
+    <string name="log_overclock">%1$s entra en sobrecarga.</string>
+    <string name="log_emp">%1$s lanza un pulso EMP: %2$d de daño y aturde.</string>
+    <string name="log_double_strike">%1$s golpea dos veces: %2$d de daño.</string>
+    <string name="log_shield_wall">%1$s levanta un muro de escudos.</string>
+    <string name="log_drain">%1$s drena %2$d y se repara %3$d.</string>
+    <string name="log_scrap_bomb">%1$s suelta una bomba de chatarra: %2$d de daño.</string>
+    <string name="log_defeated">¡%1$s queda fuera de combate!</string>
+
+    <!-- Resultado -->
+    <string name="result_victory">¡Victoria!</string>
+    <string name="result_defeat">Derrota</string>
+    <string name="result_campaign_complete">¡Campaña completada!</string>
+    <string name="result_scrap_earned">Has ganado %1$d de chatarra.</string>
+    <string name="result_try_again">Mejora tu bot en el taller e inténtalo otra vez.</string>
+    <string name="result_flawless">¡Impecable! +40 de bonus</string>
+    <string name="result_next">Siguiente combate</string>
+    <string name="result_replay">Repetir</string>
+    <string name="result_to_garage">Ir al taller</string>
+    <string name="result_to_map">Ver campaña</string>
+
+    <!-- Reinicio -->
+    <string name="reset_title">¿Reiniciar el progreso?</string>
+    <string name="reset_message">Se borrarán tu chatarra, tus bots desbloqueados y los combates superados. No se puede deshacer.</string>
+    <string name="reset_confirm">Borrar todo</string>
+</resources>

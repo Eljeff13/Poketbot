@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Save games are small and safe to carry across devices. -->
+<full-backup-content>
+    <include domain="sharedpref" path="poketbot_save.xml" />
+</full-backup-content>

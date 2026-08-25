@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Poketbot head: drawn as a vector so the icon stays crisp at every density. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Antenna -->
+    <path
+        android:fillColor="#37E2C4"
+        android:pathData="M52,22 L56,22 L56,34 L52,34 Z" />
+    <path
+        android:fillColor="#9BF6EE"
+        android:pathData="M54,17m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+
+    <!-- Head shell -->
+    <path
+        android:fillColor="#37E2C4"
+        android:pathData="M32,34 L76,34 A8,8 0 0 1 84,42 L84,72 A8,8 0 0 1 76,80 L32,80 A8,8 0 0 1 24,72 L24,42 A8,8 0 0 1 32,34 Z" />
+
+    <!-- Visor -->
+    <path
+        android:fillColor="#0B1A22"
+        android:pathData="M33,44 L75,44 A5,5 0 0 1 80,49 L80,62 A5,5 0 0 1 75,67 L33,67 A5,5 0 0 1 28,62 L28,49 A5,5 0 0 1 33,44 Z" />
+
+    <!-- Eyes -->
+    <path
+        android:fillColor="#9BF6EE"
+        android:pathData="M42,55.5m-6.5,0a6.5,6.5 0,1 1,13 0a6.5,6.5 0,1 1,-13 0" />
+    <path
+        android:fillColor="#9BF6EE"
+        android:pathData="M66,55.5m-6.5,0a6.5,6.5 0,1 1,13 0a6.5,6.5 0,1 1,-13 0" />
+
+    <!-- Jaw grille -->
+    <path
+        android:fillColor="#0B1A22"
+        android:pathData="M44,72 L64,72 L64,76 L44,76 Z" />
+</vector>

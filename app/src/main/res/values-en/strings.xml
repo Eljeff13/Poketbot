@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_subtitle">Collect, upgrade and battle pocket robots</string>
+
+    <string name="action_play">Play</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_garage">Workshop</string>
+    <string name="action_back">‹ Back</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_sound_on">Sound: on</string>
+    <string name="action_sound_off">Sound: off</string>
+    <string name="action_reset">Reset progress</string>
+
+    <string name="label_scrap">Scrap</string>
+    <string name="label_progress">Progress</string>
+    <string name="label_pilot">Bot</string>
+
+    <string name="campaign_title">Campaign</string>
+    <string name="campaign_subtitle">%1$d of %2$d battles cleared</string>
+    <string name="stage_locked">Locked</string>
+    <string name="stage_cleared">Cleared</string>
+    <string name="stage_boss">Boss</string>
+    <string name="stage_ready">Ready</string>
+
+    <string name="garage_title">Workshop</string>
+    <string name="garage_subtitle">Pick your bot and spend scrap on upgrades</string>
+    <string name="garage_upgrades">Upgrades</string>
+    <string name="roster_active">In use</string>
+    <string name="roster_ready">Available</string>
+    <string name="roster_price">%1$d ⚙</string>
+    <string name="upgrade_cost">%1$d ⚙</string>
+    <string name="upgrade_max">Maxed</string>
+    <string name="track_hp">Armour</string>
+    <string name="track_attack">Attack</string>
+    <string name="track_defense">Defence</string>
+    <string name="track_speed">Speed</string>
+
+    <string name="special_cost">Cost: %1$d energy</string>
+    <string name="special_overclock">Overclock</string>
+    <string name="special_overclock_desc">Doubles the damage of your next attack.</string>
+    <string name="special_emp">EMP Pulse</string>
+    <string name="special_emp_desc">Damages and stuns the opponent for one turn.</string>
+    <string name="special_double_strike">Double Strike</string>
+    <string name="special_double_strike_desc">Two quick hits in the same turn.</string>
+    <string name="special_shield_wall">Shield Wall</string>
+    <string name="special_shield_wall_desc">Doubles your defence for three turns.</string>
+    <string name="special_drain">Drain</string>
+    <string name="special_drain_desc">Damages the opponent and repairs you for half of it.</string>
+    <string name="special_scrap_bomb">Scrap Bomb</string>
+    <string name="special_scrap_bomb_desc">Heavy damage that pierces half the defence.</string>
+
+    <string name="battle_stage">Battle %1$d</string>
+    <string name="battle_turn">Turn %1$d</string>
+    <string name="battle_boss">Boss fight!</string>
+    <string name="action_attack">Attack</string>
+    <string name="action_defend">Defend</string>
+    <string name="action_repair">Repair (%1$d)</string>
+    <string name="status_shield">Shield %1$d</string>
+    <string name="status_overclock">Overclocked</string>
+    <string name="status_stunned">Stunned</string>
+    <string name="status_repairs">Repairs %1$d</string>
+    <string name="a11y_health">%1$s health: %2$d of %3$d</string>
+
+    <string name="log_start">%1$s enters the arena!</string>
+    <string name="log_attack">%1$s attacks for %2$d damage.</string>
+    <string name="log_crit">Critical! %1$s deals %2$d damage.</string>
+    <string name="log_defend">%1$s braces for impact.</string>
+    <string name="log_repair">%1$s repairs %2$d points (%3$d left).</string>
+    <string name="log_no_repairs">%1$s is out of spare parts.</string>
+    <string name="log_no_energy">%1$s does not have enough energy.</string>
+    <string name="log_stunned">%1$s is stunned and loses the turn.</string>
+    <string name="log_overclock">%1$s goes into overclock.</string>
+    <string name="log_emp">%1$s fires an EMP pulse: %2$d damage and a stun.</string>
+    <string name="log_double_strike">%1$s strikes twice for %2$d damage.</string>
+    <string name="log_shield_wall">%1$s raises a shield wall.</string>
+    <string name="log_drain">%1$s drains %2$d and repairs %3$d.</string>
+    <string name="log_scrap_bomb">%1$s drops a scrap bomb: %2$d damage.</string>
+    <string name="log_defeated">%1$s is knocked out!</string>
+
+    <string name="result_victory">Victory!</string>
+    <string name="result_defeat">Defeat</string>
+    <string name="result_campaign_complete">Campaign complete!</string>
+    <string name="result_scrap_earned">You earned %1$d scrap.</string>
+    <string name="result_try_again">Upgrade your bot in the workshop and try again.</string>
+    <string name="result_flawless">Flawless! +40 bonus</string>
+    <string name="result_next">Next battle</string>
+    <string name="result_replay">Replay</string>
+    <string name="result_to_garage">Workshop</string>
+    <string name="result_to_map">Campaign</string>
+
+    <string name="reset_title">Reset your progress?</string>
+    <string name="reset_message">This erases your scrap, unlocked bots and cleared battles. It cannot be undone.</string>
+    <string name="reset_confirm">Erase everything</string>
+</resources>
