@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Poketbot</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <!-- Brand name: the same in every language. -->
+    <string name="app_name" translatable="false">Poketbot</string>
     <string name="title_subtitle">Colecciona, mejora y combate con robots de bolsillo</string>
 
     <!-- Acciones generales -->
