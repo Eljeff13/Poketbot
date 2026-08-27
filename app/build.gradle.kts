@@ -35,7 +35,10 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.eljeff13.poketbot"
+        // The Play Console entry for this game is bound to this id; it is fixed
+        // once a bundle has been uploaded and cannot be changed afterwards.
+        // The Kotlin package (namespace, above) is separate and stays as it is.
+        applicationId = "com.poketbot.myapp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
